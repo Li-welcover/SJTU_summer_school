@@ -56,6 +56,9 @@ Nucleosynthesis:$p\to D\to T\to He^{+}$
 > so $v\sim \frac{5.43\times10^{-4}\text{eV}}{1\text{eV}}\sim5.43\times 10^{-4}c$
 
 ## Unit 2. Neutrinos and weak interactions
+
+^37c0c0
+
 there are neutrinos distributing in a big range of energy, formed from many processions
 
 ###  an indirect detection
@@ -96,6 +99,56 @@ N_{\nu}=2N=6 \times 10^{55}$$
 > $$
 \frac{dN_{\nu}}{dt} = \frac{6 \times 10^{55}}{3.15 \times 10^{17}} \approx 1.9 \times 10^{38} \, \nu/\text{s}$$
  
-
-
+### Pontcorvo
+there's a new method of detecting free neutrinos found by Pontcorvo.
+$\nu+^{37}Cl\implies^{37}Ar+e^{-}$
+which equals $\nu+n\to p+e^{-}$, the neutrino was captured by the neutron and create another thing.
+it's the principle of the "tank detection", while $^{8}B$ 's beta decay products neutrinos from the sun
+## neutrinos oscillation
  
+> [!exercise] design an optical far detector distance
+> use the neutrinos oscillation to calculate the phase difference, according to the diagram, we know that $\sin ^{2}\left( \frac{1.27\Delta m^{2}L}{E} \right)=1$, using$\Delta m$and $E_{\nu}$ we can get final solution
+
+> [!exercise] 
+> 200MeV
+
+---
+ > [!exercise] calculate the flux of DM
+ 
+ collision energy
+ for detectors, we want maximum the collision energy, we don't optimize $A=\frac{m_{1}}{m_{2}}$, but optimize the energy the detector sensitive for.
+ To do this, we choose Xenon(Xe) as the detector material. The physic property: Boiling point: negative 100$^{\circ}$C, which is much higher than which of the Nitrogen(N).
+ In the container, when collision is happening, we catch the first signal when DM particle touch the Xenon target, the collision energy is in the form of light.
+ The second signal emits when electron touch the top of the container, is stronger than the former one. by the way, the electron comes into being when DM particle touch Xenon Atoms. and it drift up by the external electric field.
+
+---
+ background: there are many many DM shale
+Tritium(氚) is one of the background with level of 20/kg of xenon. in the detector, we track anything interacting with xenon, including the decay of tritium, which cause interference.
+Now we managed to reduce it to 2/kg of xenon
+
+We haven't found DM particle yet, but we focus at another special kind of index: SI WIMP-nucleon cross the section.
+and because we can detect where the neutrinos comes by its energy scale, there is high flux of pp neutrino but mach low of Solar B8 neutrinos and HEP ones. To detect them, as we learned yesterday( the four famous experiments), thousand tons of Heavy water(deuteron) was used for this work.
+a 4-ton detector but CE$\nu$NS(**coherent elastic neutrino–nucleus scattering**)
+
+## Neutrinoless double beta-decays
+The weak interaction is different from classical ones before, but the physics of the detector are same. 
+Majorana mass term is:
+$$
+m_{R}\bar{\nu}_{R}^{C}\nu_{R}
+$$
+which can be detected by the neutrinoless  double beta decays. We know that annihilation happens when postron and electron meet, and radiate gamma rays at the same time. 
+the universe almost has no anti matter because most of them were consumed by the annihilation at the beginning of the universe.
+$$
+\eta=\frac{n_{B}-\bar{n}_{B}}{n_{\gamma}}\sim 10^{-5}
+$$
+
+Found by Dirac & Majorana the reason why there is no neutrino left is that:
+$$
+\bar{\nu}=\nu
+$$
+so when two neutrino meet, the annihilate happens and release energy.
+2$\nu\beta\beta$:$2n\to2p+2e^{-}+2\nu_{e}$, for example: $^{136}Xe\to ^{136}Ba +2e^{-}+2\nu_{e}$
+0$\nu\beta\beta$:$2n\to 2p+2e^{-}$
+
+
+
